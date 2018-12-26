@@ -11,7 +11,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib13-Transparency", "lib13
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib13-Shadow", "lib13-Shadow\lib13-Shadow.vcxproj", "{7DBB0153-FDD4-48A9-A2CD-EF1C3901FF9C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lib14-3DSModel", "Lib14-3DSModel\Lib14-3DSModel.vcxproj", "{59F3F347-E84A-4A45-A496-3CA4C2856046}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib14-3DSModel", "Lib14-3DSModel\Lib14-3DSModel.vcxproj", "{59F3F347-E84A-4A45-A496-3CA4C2856046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
